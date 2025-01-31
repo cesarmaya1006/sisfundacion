@@ -1,0 +1,8 @@
+.linkAcceso{
+    color: black;
+}
+
+.linkAcceso:hover{
+    color: blue;
+    font-size: 1.1em;
+}
