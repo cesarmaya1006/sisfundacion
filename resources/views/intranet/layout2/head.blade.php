@@ -47,3 +47,6 @@
 <link rel="stylesheet" href="{{ asset('adminlte/dist/css/adminlte.css') }}">
 
 <link rel="stylesheet" href="{{ asset('css/intranet/general/general.css') }}">
+
+<!-- Ionicons -->
+<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
